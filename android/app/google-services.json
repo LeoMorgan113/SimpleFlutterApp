@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855404345530",
+    "project_id": "my-simple-app-eb7d1",
+    "storage_bucket": "my-simple-app-eb7d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855404345530:android:f38c7ea9abd405c42f6a83",
+        "android_client_info": {
+          "package_name": "com.leomorgan.my_simple_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEM0UjWf2QzIi-heZcYvnyljojzZQL3w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
